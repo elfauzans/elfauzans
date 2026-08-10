@@ -273,9 +273,9 @@ Incident Response
 
 | Category | Technologies / Practice |
 |---|---|
-| 💻 Software Development | PHP, JavaScript, Python, Go |
+| 💻 Software Development | Mobile App, Website, Ai Workflow, SaaS |
 | 🌐 Frontend | React, Next.js, Flutter |
-| ⚙️ Backend | PHP, REST API, MVC |
+| ⚙️ Backend | PHP, Javascript, Typescript, Python, Go, REST API, MVC |
 | 🗄️ Database | MySQL, SQL |
 | 🔐 Authentication | JWT, Authentication, Authorization |
 | 🛡️ Web Security | OWASP Top 10, XSS, SQLi, CSRF, IDOR |
