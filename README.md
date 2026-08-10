@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hologram.svg" width="100%" alt="Ghilman Fauzan Cyber Security Hologram">
+<img src="./assets/ghilman_hex_hologram.svg" width="100%" alt="Ghilman Fauzan Cyber Security Hologram">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cyber+Security+Enthusiast;Bug+Hunting+%7C+Web+Security;DFIR+Learner;Secure+Backend+Developer" alt="Typing animation">
 
