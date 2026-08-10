@@ -1,37 +1,85 @@
-# Hi there, I'm Ghilman Fauzan 👋
-### Aspiring Software Engineer | Cyber Security Enthusiast & DFIR Learner
+<div align="center">
 
-I am a software engineer expanding my expertise into the cybersecurity domain. Currently, I am deeply focused on developing secure coding habits, understanding web/API vulnerability exploitation (Bug Hunting), and learning the fundamentals of Digital Forensics and Incident Response (DFIR). 
+<img src="./assets/hologram.svg" width="100%" alt="Ghilman Fauzan Cyber Security Hologram">
 
-I use this GitHub profile to document my continuous learning journey, hands-on lab experiments, and security write-ups.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Cyber+Security+Enthusiast;Bug+Hunting+%7C+Web+Security;DFIR+Learner;Secure+Backend+Developer" alt="Typing animation">
 
-- 🛡️ **Current Focus:** OWASP Top 10 hands-on practice, Linux/Windows Artifact Analysis, and Secure Backend Development.
-- 🧪 **Learning Platforms:** TryHackMe | HackTheBox | PortSwigger Web Security Academy
-- ⚡ **Goal:** Bridging the gap between writing efficient code and defending digital infrastructures.
+</div>
 
 ---
 
-## 📚 Learning Paths & Hands-On Labs
+## 👋 Hi, I'm Ghilman Fauzan
 
-Instead of full-scale production tools, I focus on documenting my learning methodologies and home lab environments:
+I'm a software engineer expanding into **Cyber Security**, with a focus on practical labs, web security, secure coding, and Digital Forensics & Incident Response.
 
-### 🪲 Bug Hunting & Web Security Labs
-* **PortSwigger Academy:** Documenting my progress and solutions for core web vulnerabilities (XSS, SQLi, CSRF, IDOR).
-* **Vulnerable Apps Lab:** Deploying and testing intentionally vulnerable applications (like DVWA or OWASP Juice Shop) locally to understand remediation.
+```text
+> whoami
+Ghilman Fauzan
 
-### 🔍 DFIR (Digital Forensics & Incident Response)
-* **Threat Hunting & Log Analysis:** Analyzing packet captures (PCAP) using Wireshark and examining event logs.
-* **Incident Response Simulation:** Completing blue-team rooms on TryHackMe focused on memory forensics (Volatility) and artifact hunting.
+> current_focus
+Web Security / Bug Hunting / DFIR
+
+> learning
+OWASP Top 10 / PortSwigger / Linux / Windows Artifacts
+
+> mission
+Learn in public. Build. Break. Investigate. Secure.
+```
+
+## 🛡️ Security Journey
+
+| Area | Current Practice |
+|---|---|
+| 🌐 Web Security | XSS, SQLi, CSRF, IDOR, Authentication |
+| 🪲 Bug Hunting | PortSwigger Web Security Academy |
+| 🔍 DFIR | Logs, PCAP, Windows artifacts, incident response |
+| 🐧 Linux | Kali Linux, CLI, networking |
+| 💻 Development | PHP, JavaScript, Python, Go |
+
+## 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,php,js,go,linux,docker,git,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+<img src="https://img.shields.io/badge/Nmap-Network%20Security-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-DFIR-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7">
+</p>
+
+## 📚 Labs & Learning
+
+- 🔥 PortSwigger Web Security Academy
+- 🎯 TryHackMe
+- 🧩 Hack The Box
+- 🐞 DVWA / OWASP Juice Shop
+- 🔎 Wireshark & artifact analysis
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+</p>
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/my-ghilman-fauz4n
+- Portfolio: https://ghilman-fauzan.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack & Tools I'm Practicing
-* **Languages & Dev:** Python (for security automation), PHP, Javascript, Go, Git
-* **Security Tools:** Burp Suite, Nmap, Wireshark, Volatility
-* **Operating Systems:** Kali Linux, Ubuntu, Windows Architecture
-
----
-
-
-## 🤝 Connect with Me
-* **LinkedIn:** www.linkedin.com/in/my-ghilman-fauz4n
+<p align="center">
+  <i>"Learn in public. Build. Break. Investigate. Secure."</i>
+</p>
